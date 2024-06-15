@@ -3,8 +3,8 @@ import numpy as np
 from PIL import Image
 
 # image and mask paths
-image_path = 'data/images/WaxO11.JPG'
-mask_path = 'data/masks/Wax11.png'
+image_path = 'data/images/WaxO18.JPG'
+mask_path = 'data/masks/Wax18.png'
 
 # assign values to pixel colors
 def get_mask_layer(px):
